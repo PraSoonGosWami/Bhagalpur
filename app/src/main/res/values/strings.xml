@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Bhagalpur</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment
+
+    </string>
+
+    <string name="About">Bhagalpur is a city of historical importance on the southern banks of the river Ganges in the Indian state of Bihar. It is the 3rd largest city of Bihar and also the headquarters of Bhagalpur district and Bhagalpur division. Known as Silk City, it is a major educational, commercial, and political centre, and listed for development under the Smart City program, a joint venture between Government and industry.
+
+    </string>
+
+    <string name="cities">Vikramshila\nKahalgaon\nJamalpur\nSahibganj
+
+    </string>
+
+</resources>
